@@ -93,8 +93,8 @@ export default function Footer() {
             <address className="not-italic space-y-2 text-sm text-muted-foreground">
               <p> Raisen Road</p>
               <p>Patel Nagar, Bhopal, MP, India</p>
-              <p>Email: alfabara2002@gmail.com</p>
-              <p>Phone: +91 7049469023</p>
+              <p>Email: karanxaxa111@gmail.com</p>
+              <p>Phone: +91 8319950925</p>
             </address>
           </div>
         </div>
