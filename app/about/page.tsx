@@ -129,16 +129,16 @@ export default function AboutPage() {
         <div className="grid md:grid-cols-3 gap-8">
           {[
             {
-              name: "Alfa Bara",
+              name: "Vedanti Chourey",
               role: "Co-Founder & CEO",
               bio: "Former agricultural economist with a passion for sustainable farming",
               image: "https://images.unsplash.com/photo-1720345174544-65637a5307bf?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             },
             {
-              name: "Palak Thakur",
+              name: "Mukul Nagar",
               role: "Head of Farmer Relations",
               bio: "Third-generation farmer who understands the challenges farmers face",
-              image: "https://images.unsplash.com/photo-1652953233042-35a88a3e3388?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              image: "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             },
           ].map((member, index) => (
             <div key={index} className="text-center">
